@@ -1,0 +1,22 @@
+<div *ngIf="Isshow">
+	  <h1>Our Products</h1>
+	  
+	    <div class="thumbnails list-unstyled">
+		  
+		   <div class="col-md-3" *ngFor="let product of products">
+		    <div class="thumbnail" style="padding:0;">
+			  <div style="padding:4px;">
+			   <img alt="300X300" style="width:100%;" src="{{product.product_image}}"/>
+			  </div>
+			  <div class="caption">
+			    <h2>{{product.product_name}}</h2>
+				<p>{{product.product_description}}</p>
+				<h3>${{product.product_price}}</h3>
+				<button class="btn btn-primary btn-sm">Add to Cart</button>
+			  </div>
+			</div>
+		   </div>	
+		  
+		</div>
+	 
+	</div>

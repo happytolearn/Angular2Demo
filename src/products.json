@@ -1,0 +1,58 @@
+[
+	   {
+		"Product_id":1,
+		"product_name":"Samsung A8",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img2.jpg",
+		"product_price":12000
+	   },
+	   {
+		"Product_id":2,
+		"product_name":"Samsung A3",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img3.jpg",
+		"product_price":33000
+	   },
+	   {
+		"Product_id":3,
+		"product_name":"Moto G",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img4.jpg",
+		"product_price":37000
+	   },
+	   {
+		"Product_id":4,
+		"product_name":"Moto G plus",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img2.jpg",
+		"product_price":25000
+	   },
+	   {
+		"Product_id":5,
+		"product_name":"Samsung galaxy",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img3.jpg",
+		"product_price":15000
+	   },
+	   {
+		"Product_id":6,
+		"product_name":"Iphone 6",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img4.jpg",
+		"product_price":40000
+	   },
+	   {
+		"Product_id":7,
+		"product_name":"Nokia 2100",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img3.jpg",
+		"product_price":12000
+	   },
+	   {
+		"Product_id":8,
+		"product_name":"Samsung ace 4",
+		"product_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+		"product_image":"../app/images/img4.jpg",
+		"product_price":8000
+	   }
+	]
